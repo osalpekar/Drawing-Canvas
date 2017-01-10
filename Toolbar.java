@@ -1,16 +1,5 @@
 /**
- *-------------------------------------------------------------- 80 columns ---|
- * The Toolbar class sets up the buttons along the bottom of the window
- * that allow the user to choose the current drawing tool as well as the
- * the button that shows the current color and brings up the color chooser
- * to pick a new color.  The code that's here should do pretty much all
- * you need as is. Read it over to get a sense of what it takes to put
- * together and manage some simple UI. You are welcome to futz with this
- * code if you want to make some changes, but it shouldn't be necessary.
- *
- * @version      1.2 9/24/10
- * @author       Julie Zelenski
- * @author      (touched up by Ian A. Mason)
+ * credit: Julie Zelenski and Ian A. Mason
  * @see          javax.swing.JPanel
  * @see          javax.swing.JToggleButton
  * @see          javax.swing.JButton

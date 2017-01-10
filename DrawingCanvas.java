@@ -1,9 +1,5 @@
 /* 
- *-------------------------------------------------------------- 80 columns ---|
- * The DrawingCanvas class a small extension of JComponent
- * @version      1.2 9/24/10
- * @author    Julie Zelenski
- * @author    (touched up by Ian A. Mason)
+ * credit: Julie Zelenski and Ian A. Mason
  * @see       javax.swing.JComponent
  */
 

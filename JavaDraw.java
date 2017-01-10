@@ -1,17 +1,4 @@
 /**
- *-------------------------------------------------------------- 80 columns ---|
- * This is the main class for the application. It is built along the same
- * lines as the Editor class of project 1. It has a constructor, two instance
- * methods, and a static main()  that kicks the whole thing off.
- * The two instance methods are a menu creation method, and a menuItems 
- * initialisation method.  The constructor instantiates the window 
- * and sets up its internals by creating and installing the drawing canvas, 
- * toolbar, and menus. All of the code works correctly as is and should 
- * require no changes. 
- *
- * @version      1.2 9/24/10
- * @author       Julie Zelenski 
- * @author       Restructured by Ian A. Mason
  * @see       javax.swing.JFrame
  * @see       javax.swing.JMenuBar
  * @see       javax.swing.JMenuItem
